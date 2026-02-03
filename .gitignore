@@ -138,6 +138,7 @@ celerybeat.pid
 .env
 .envrc
 .venv
+.venv/
 env/
 venv/
 ENV/
@@ -208,4 +209,4 @@ __marimo__/
 
 *.zip
 data/
-*.venv/
+.winenv/
