@@ -212,3 +212,5 @@ data/
 .winenv/
 
 *.mp4
+*.csv
+logs/
