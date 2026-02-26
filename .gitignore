@@ -210,6 +210,9 @@ __marimo__/
 *.zip
 data/
 .winenv/
+.lenv/
+
+catboost_info/
 
 *.mp4
 *.csv
