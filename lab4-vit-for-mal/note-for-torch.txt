@@ -1,0 +1,2 @@
+Command for installing torch in venv
+pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu126
