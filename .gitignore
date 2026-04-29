@@ -217,3 +217,7 @@ catboost_info/
 *.mp4
 *.csv
 logs/
+
+Lectures/
+VirtualBox-7.2.8-173730-Win.exe
+practice/
